@@ -3,7 +3,8 @@
 An FPGA-based optical wireless communication system implemented on the Nexys A7 platform using laser transmission, photodiode reception, real-time signal acquisition, and custom FPGA processing. This project explores visible-light/laser-based digital communications using FPGA hardware acceleration, PWM modulation techniques, analog signal acquisition through the XADC, and custom receiver decoding logic.
 
 
-<img width="2529" height="2160" alt="IMG_1851" src="https://github.com/user-attachments/assets/e232dcda-5aa0-4eb8-a53e-c1526a42be85" />
+<img width="2529" height="2160" alt="IMG_1851" src="https://github.com/user-attachments/assets/6d7d408d-1d88-43d0-be97-3f007c17b933" />
+
 
 
 ## Project Overview
