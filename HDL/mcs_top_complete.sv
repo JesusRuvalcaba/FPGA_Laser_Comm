@@ -75,7 +75,7 @@ module mcs_top_complete
    assign rgb_led1 = pwm[2:0];
    // PMOD JA  
    assign ja_top[1] = ddfs_sq_wave;
-   assign ja_top[2] = pdm;
+   assign ja_top[2] = led[0];
    assign ja_top[4:3] = pwm[7:6];
    assign ja_btm = 4'b0000;
    
